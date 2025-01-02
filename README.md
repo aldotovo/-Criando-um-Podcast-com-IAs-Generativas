@@ -1,6 +1,6 @@
 # 🎙️ Projeto Podcast Gerado por I.A.s  
 
-Bem-vindo ao **Podcast Gerado por I.A.s**, um projeto que une criatividade e tecnologia para criar um podcast inteiramente produzido com ferramentas de Inteligência Artificial! 🚀  
+Bem-vindo ao **FrontCast: Explore as terras do frontend e os desafios do mercado atual**, um projeto que une criatividade e tecnologia para criar um podcast inteiramente produzido com ferramentas de Inteligência Artificial! 🚀  
 
 Neste projeto, utilizamos uma esteira de prompts cuidadosamente elaborados para conduzir cada etapa do processo criativo.  
 
