@@ -9,6 +9,7 @@ Neste projeto, utilizamos uma esteira de prompts cuidadosamente elaborados para 
 ## 🛠️ Tecnologias Utilizadas  
 
 ✨ **ChatGPT** - Para criar títulos e roteiros envolventes e bem estruturados.  
+🎨 **MidJourney** - Para gerar capas criativas e impactantes.  
 🎙️ **ElevenLabs** - Para dar vida ao roteiro com vozes realistas e dinâmicas.  
 🎬 **CapCut** - Para tratar o áudio e adicionar trilhas sonoras que complementam a experiência.  
 
@@ -22,7 +23,10 @@ Neste projeto, utilizamos uma esteira de prompts cuidadosamente elaborados para 
 2. **Voz Realista**:  
    - Criada pela **ElevenLabs**, transformando texto em áudio com vozes incríveis.  
 
-3. **Produção Final**:  
+3. **Capas Personalizadas**:  
+   - Desenvolvidas com a **MidJourney**, refletindo a essência de cada episódio.  
+
+4. **Produção Final**:  
    - Edição no **CapCut**, onde o áudio foi tratado e sons de fundo foram adicionados para enriquecer o episódio.  
 
 ---
